@@ -73,7 +73,7 @@ My research interest includes neural machine translation and computer vision. I 
 document.addEventListener("DOMContentLoaded", function() {
     // 1. 获取所有的内容板块和导航链接
     const sections = document.querySelectorAll('.page-section');
-    const navLinks = document.querySelectorAll('.visible-links a'); // 模板的导航链接class
+    const navLinks = document.querySelectorAll('.greedy-nav a'); // 模板的导航链接class
 
     // 2. 定义一个函数，用来显示指定的板块，隐藏其他所有板块
     function showSection(targetId) {
