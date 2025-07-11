@@ -10,6 +10,7 @@
 
   <div class="author__content">
     <h3 class="author__name">{{ author.name }}</h3>
+    {% if author.name_zh %}<p class="author__name" style="font-size: 1.1rem; margin-top: -0.5rem;">{{ author.name_zh }}</p>{% endif %}
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
   </div>
 

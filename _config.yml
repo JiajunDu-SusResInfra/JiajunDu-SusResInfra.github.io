@@ -21,7 +21,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Jiajun Du (杜佳俊)"
+  name          : "Jiajun Du"
+  name_zh          : "杜佳俊"
   avatar           : "images/profile.JPG"
   bio              : "Tongji University"
   location         : "Shanghai, China"
