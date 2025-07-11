@@ -1,9 +1,11 @@
 name: Get Citation Data
 
-on: 
- page_build: 
- schedule:
-  - cron:  '0 8 * * *'
+on:
+  schedule:
+    # Runs at 08:00 UTC on every Sunday
+    # The format is: Minute Hour Day-of-month Month Day-of-week
+    # '0' for Day-of-week means Sunday.
+    - cron: '0 8 * * 0'
 
 jobs:
   build:
