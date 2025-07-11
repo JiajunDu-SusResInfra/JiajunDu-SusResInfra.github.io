@@ -9,7 +9,7 @@
 title                    : "Jiajun Du (杜佳俊)"
 description              : "I'm now a PhD student committed to integrated sustainable and resilient building design."
 repository               : "JiajunDu-ReSustain.github.io"
-google_scholar_stats_use_cdn : true
+google_scholar_stats_use_cdn : false
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
