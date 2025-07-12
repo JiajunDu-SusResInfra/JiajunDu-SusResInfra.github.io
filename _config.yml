@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Jiajun Du"
+title                    : "Jiajun | SusResInfra"
 title_separator          : "-"
 name                     : &name "Jiajun Du"
 description              : &description "Jiajun's personal website."
