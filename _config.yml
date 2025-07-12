@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Jiajun Du / Sustainable & Resilient Infrastructure"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Jiajun Du"
-description              : &description "personal description phd"
+description              : &description "Jiajun's personal website."
 url                      : "https://jiajundu-susresinfra.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jiajundu-susresinfra/jiajundu-susresinfra.github.io"
