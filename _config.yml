@@ -13,7 +13,7 @@ title                    : "Jiajun Du / Sustainable & Resilient Infrastructure"
 title_separator          : "-"
 name                     : &name "Jiajun Du"
 description              : &description "personal description phd"
-url                      : "https://your-github-username.github.io"
+url                      : "https://jiajundu-susresinfra.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jiajundu-susresinfra/jiajundu-susresinfra.github.io"
 
