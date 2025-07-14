@@ -25,4 +25,4 @@ def my_model(x):
 ```
 
 <p>以下是嵌入的PDF文件：</p>
-<iframe src="/assets/pdf/Bivariate-Normal.pdf" width="100%" height="800px" style="border: none;"></iframe>
+<iframe src="/assets/pdf/Bivariate-Normal.pdf" width="80%" height="1000px" style="border: none;"></iframe>
