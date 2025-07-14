@@ -22,3 +22,7 @@ slug: 2025-06-14-deep-learning-story # <-- 确保每个文件都有这个，并�
 def my_model(x):
     # ... implementation details ...
     return x
+```
+
+<p>以下是嵌入的PDF文件：</p>
+<iframe src="/assets/pdf/Bivariate-Normal.pdf" width="100%" height="800px" style="border: none;"></iframe>
