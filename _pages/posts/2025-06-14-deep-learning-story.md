@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 permalink: /posts/2025-06-14-deep-learning-story/
 title: "深入探究：我的深度残差网络研究之旅"
 author_profile: true
