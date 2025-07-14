@@ -1,20 +1,9 @@
 ---
-# 布局指令 (最关键的一步!)
-# 告诉Jekyll使用主题自带的、用于单个文章的'single'布局
 layout: single
-
-# 文章标题，会显示在浏览器标签页和文章顶部
+permalink: /posts/2025-06-14-deep-learning-story/
 title: "深入探究：我的深度残差网络研究之旅"
-
-# 作者信息栏指令 (第二关键的一步!)
-# 确保页面左侧显示你的个人信息，保持网站风格统一
 author_profile: true
-
-# 文章的发布日期
 date: 2025-06-14
-
-# 你可以为文章添加标签和分类 (可选)
-tags: [Deep Learning, Computer Vision, CVPR]
 ---
 
 ## 这是文章的副标题
