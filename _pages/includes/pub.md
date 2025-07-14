@@ -12,4 +12,6 @@
 </div>
 </div>
 
-- `EESD 2024` [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**, [**阅读详情**]({{ site.baseurl }}/posts/2025-06-14-deep-learning-story/)
+- `EESD 2024` [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**, [**阅读详情**](#2025-06-14-deep-learning-story)
+
+- `EESD 2034` [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**, [**阅读详情**](#2025-06-15-think)

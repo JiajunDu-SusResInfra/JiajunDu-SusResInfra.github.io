@@ -35,6 +35,15 @@ redirect_from:
   {{ talks_content | markdownify }}
 </div>
 
+{% assign my_articles = site.pages | where_exp: "item", "item.path contains '_pages/posts/'" %}
+{% for article in my_articles %}
+  <div id="{{ article.slug }}" class="page-section" style="display: none;">
+    <h1>{{ article.title }}</h1>
+    <hr>
+    {{ article.content }}
+  </div>
+{% endfor %}
+
 <script>
 document.addEventListener("DOMContentLoaded", function() {
     // 1. 获取所有的内容板块和导航链接
