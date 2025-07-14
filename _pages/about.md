@@ -25,11 +25,6 @@ redirect_from:
   {{ pub_content | markdownify }}
 </div>
 
-<div id="educations" class="page-section">
-  {% capture edu_content %}{% include_relative includes/educations.md %}{% endcapture %}
-  {{ edu_content | markdownify }}
-</div>
-
 <div id="talks" class="page-section">
   {% capture talks_content %}{% include_relative includes/talks.md %}{% endcapture %}
   {{ talks_content | markdownify }}
