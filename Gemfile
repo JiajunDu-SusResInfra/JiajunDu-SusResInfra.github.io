@@ -24,5 +24,8 @@ group :jekyll_plugins do
   # gem "jekyll-archives"
   gem "jekyll-feed"
   gem 'jekyll-sitemap'
+  gem "jekyll-paginate"      # <--- 添加这个
+  gem "jekyll-gist"          # <--- 添加这个
+  gem "jekyll-redirect-from" # <--- 添加这个
   gem 'hawkins'
 end
