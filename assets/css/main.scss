@@ -107,3 +107,10 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+/* --- Custom Code Block Font Size --- */
+/* This rule targets code blocks for syntax highlighting */
+.highlighter-rouge pre,
+.highlighter-rouge code {
+  font-size: 12px; /* Adjust this value. e.g., 0.9em, 16px, 1.2rem */
+}
