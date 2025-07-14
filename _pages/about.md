@@ -15,20 +15,24 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<div id="home" class="page-section" markdown="1">
-  {% include_relative includes/intro.md %}
+<div id="home" class="page-section">
+  {% capture pub_content %}{% include_relative includes/intro.md %}{% endcapture %}
+  {{ intro_content | markdownify }}
 </div>
 
-<div id="publications" class="page-section" markdown="1">
-  {% include_relative includes/pub.md %}
+<div id="publications" class="page-section">
+  {% capture pub_content %}{% include_relative includes/pub.md %}{% endcapture %}
+  {{ intro_content | markdownify }}
 </div>
 
-<div id="educations" class="page-section" markdown="1">
-  {% include_relative includes/educations.md %}
+<div id="educations" class="page-section">
+  {% capture pub_content %}{% include_relative includes/educations.md %}{% endcapture %}
+  {{ intro_content | markdownify }}
 </div>
 
-<div id="talks" class="page-section" markdown="1">
-  {% include_relative includes/talks.md %}
+<div id="talks" class="page-section">
+  {% capture pub_content %}{% include_relative includes/talks.md %}{% endcapture %}
+  {{ intro_content | markdownify }}
 </div>
 
 <script>
