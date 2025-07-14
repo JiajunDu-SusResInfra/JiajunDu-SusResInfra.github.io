@@ -1,10 +1,19 @@
 # main links
 main:
   - title: "About Me"
-    url: /
+    url: "/#home"
 
   - title: "Publications"
-    url: /publications/
+    url: "/#publications"
 
-  - title: "Talks"
-    url: /talks/
+  - title: "Honors and Awards"
+    url: "/#honors"
+
+  - title: "Educations"
+    url: "/#educations"
+
+  - title: "Invited Talks"
+    url: "/#talks"
+
+  - title: "Internships"
+    url: "/#internships"
