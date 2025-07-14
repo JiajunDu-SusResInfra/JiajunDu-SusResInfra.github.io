@@ -75,7 +75,7 @@ document.addEventListener("DOMContentLoaded", function() {
     }
 
     // 4. 为页面上所有内部锚点链接添加点击事件 (已修正)
-    const allAnchorLinks = document.querySelectorAll('a[href^="#"]');
+    const allAnchorLinks = document.querySelectorAll('a[href*="#"]');
 
     allAnchorLinks.forEach(link => {
         link.addEventListener('click', function(e) {
