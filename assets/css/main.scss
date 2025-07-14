@@ -108,6 +108,24 @@ h1:before, .anchor:before {
     font-size: .8em;
 }
 
+.badge-inline {
+    /* --- 从你的 .badge 类中复制过来的外观属性 --- */
+    background-color: #00369f;
+    color: white;
+    font-size: 0.8em;        // <-- 与 .badge 完全一致
+    padding-left: 1rem;      // <-- 与 .badge 完全一致
+    padding-right: 1rem;     // <-- 与 .badge 完全一致
+    
+    /* --- 用于保证行内正常显示、不重叠的属性 --- */
+    display: inline-block;
+    position: relative;         // 使用相对定位，让它留在正常的文本流中
+    vertical-align: baseline; // 尝试不同的值(如 middle, top)来获得最佳对齐效果
+    margin-right: 0.5em;
+    border-radius: 3px;       // 建议保留一点圆角，更好看
+    line-height: 1.6;         // 调整行高，让文字在徽章内垂直居中
+    font-family: $global-font-family; // 确保使用常规字体
+  }
+
 /* --- Custom Code Block Font Size --- */
 /* This rule targets code blocks for syntax highlighting */
 .highlighter-rouge pre,
