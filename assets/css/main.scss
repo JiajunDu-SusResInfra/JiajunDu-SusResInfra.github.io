@@ -114,29 +114,3 @@ h1:before, .anchor:before {
 .highlighter-rouge code {
   font-size: 12px; /* Adjust this value. e.g., 0.9em, 16px, 1.2rem */
 }
-
-/* --- 自定义Logo链接的样式 --- */
-
-/* 针对整个链接的样式，比如去掉下划线 */
-a.logo-link {
-    text-decoration: none; // 去掉下划线
-    font-family: sans-serif; // 你可以为它指定一个特殊的字体
-  }
-  
-  /* 为 "Sus" 部分设置样式 */
-  .logo-part1 {
-    font-weight: 700;      /* 加粗 (可选值: 300, 400, 500, 700, 900) */
-    color: #228B22;        /* 举例：改成一个深蓝色 */
-  }
-  
-  /* 为 "Res" 部分设置样式 */
-  .logo-part2 {
-    font-weight: 700;      /* 正常粗细 */
-    color: #0056b3;        /* 举例：改成一个深灰色 */
-  }
-  
-  /* 为 "Infra" 部分设置样式 */
-  .logo-part3 {
-    font-weight: 700;      /* 较细的字体 */
-    color: #343a40;        /* 举例：改成一个中灰色 */
-  }
