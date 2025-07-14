@@ -7,6 +7,7 @@ My research interest includes neural machine translation and computer vision. I 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
+- *2024.09 - Now*, Visiting PhD student, Department of Civil and Environmental Engineering, University of Auckland, Auckland.
 - *2021.09 - Now*, PhD student, Department of Structural Engineering, Tongji University, Shanghai.
 - *2017.09 - 2021.06*, Undergraduate, Department of Ocean Engineering, Harbin Institute of Technology (Weihai Campus), Weihai.
 - *2014.09 - 2017.06*, Yantai NO.1 Middle School of Shandong, Yantai.
