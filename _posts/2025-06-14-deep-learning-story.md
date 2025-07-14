@@ -11,7 +11,7 @@ title: "深入探究：我的深度残差网络研究之旅"
 author_profile: true
 
 # 文章的发布日期
-date: 2025-07-14
+date: 2025-06-14
 
 # 你可以为文章添加标签和分类 (可选)
 tags: [Deep Learning, Computer Vision, CVPR]
