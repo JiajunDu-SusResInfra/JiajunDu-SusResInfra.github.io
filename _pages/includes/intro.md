@@ -6,10 +6,10 @@ My research interest includes hazard resilient and sustainability-informed asses
 - *2024.07*: &nbsp;🎉🎉 Jiajun Du received a CSC scholarship in 2024, which will fund his two-year academic exchanges at the University of Auckland.
 
 # 📖 Educations
-- *2024.09 - Now*, Visiting PhD student, Department of Civil and Environmental Engineering, University of Auckland, Auckland.
-- *2021.09 - Now*, PhD student, Department of Structural Engineering, Tongji University, Shanghai. (**GPA**: 91.2/100)
-- *2017.09 - 2021.06*, Undergraduate, Department of Ocean Engineering, Harbin Institute of Technology (Weihai Campus), Weihai. (**GPA**: 95.0/100)
-- *2014.09 - 2017.06*, Yantai NO.1 Middle School of Shandong, Yantai.
+- *2024.09 - Now*, Visiting PhD student, Department of Civil and Environmental Engineering, University of Auckland, New Zealand.
+- *2021.09 - Now*, PhD student, Department of Structural Engineering, Tongji University, China. (**GPA**: 91.2/100)
+- *2017.09 - 2021.06*, Undergraduate, Department of Ocean Engineering, Harbin Institute of Technology (Weihai Campus), China. (**GPA**: 95.0/100)
+- *2014.09 - 2017.06*, Yantai NO.1 Middle School of Shandong, China.
 
 # 🎖 Honors and Awards
 - *2024* CSC scholarship awarded by China Scholarship Council
