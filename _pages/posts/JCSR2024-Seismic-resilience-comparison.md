@@ -3,4 +3,4 @@ title: "Seismic resilience comparison of CFST frame and HSS frame structures: An
 slug: JCSR2024-Seismic-resilience-comparison # <-- 确保每个文件都有这个，并且值是唯一的
 ---
 <p>Paper PDF：</p>
-<iframe src="/assets/pdf/JCSR2024-Seismic-resilience-comparison.pdf" width="80%" height="1000px" style="border: none;"></iframe>
+<iframe src="/assets/pdf/JCSR2024-Seismic-resilience-comparison.pdf#page=1" width="80%" height="1000px" style="border: none;"></iframe>
