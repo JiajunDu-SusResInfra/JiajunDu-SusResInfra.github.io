@@ -17,7 +17,7 @@ This 'publication' part is still under construction.
 - <span class="badge-inline">EESD 2024</span> [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**, [**阅读详情**](#2025-06-14-deep-learning-story)
 
 - <span class="badge-inline">ES 2024</span> [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**, [**阅读详情**](#2025-06-15-think)
-{% end comment %}
+{% endcomment %}
 
 
 
