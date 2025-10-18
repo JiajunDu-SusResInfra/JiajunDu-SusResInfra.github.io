@@ -1,5 +1,5 @@
 ---
-title: "Experimental and Numerical Investigation on Seismic Performance and Yielding Sequence of Coupled-Double Skin Composite Walls"
+title: "Seismic resilience comparison of CFST frame and HSS frame structures: An assessment based on economic and carbon emission indicators"
 slug: JCSR2024-Seismic-resilience-comparison # <-- 确保每个文件都有这个，并且值是唯一的
 ---
 <p>Paper PDF：</p>
