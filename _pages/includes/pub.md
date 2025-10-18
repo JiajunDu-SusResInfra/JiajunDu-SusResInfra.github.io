@@ -21,7 +21,7 @@ This 'publication' part is still under construction.
 
 
 
-- <span class="badge-inline">ES 2025</span> [Full-scale shaking table test, numerical analysis, and design strategy of a prefabricated substation equipment cabin](https://doi.org/10.1016/j.engstruct.2025.121391), J Du, W Wang, J Zhang, X Liu, TL Karavasilis, [**阅读详情**](#)
+- <span class="badge-inline">ES 2025</span> [Full-scale shaking table test, numerical analysis, and design strategy of a prefabricated substation equipment cabin](https://doi.org/10.1016/j.engstruct.2025.121391), **J Du**, W Wang, J Zhang, X Liu, TL Karavasilis, [**阅读详情**](#ES2025-Full-scale-shaking-table-test)
 
 - <span class="badge-inline">TWS 2025</span> [Experimental and Numerical Investigation on Seismic Performance and Yielding Sequence of Coupled-Double Skin Composite Walls](https://doi.org/10.1016/j.tws.2025.113646), H Hou, W Wang, MS Alam, S Wang, J Du, [**阅读详情**](#)
 
